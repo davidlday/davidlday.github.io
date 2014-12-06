@@ -2,11 +2,11 @@
 layout: page
 title: Interviews
 image:
-  feature: abstract-5.jpg
+  feature: eyes.jpg
 comments: false
 ---
 
-Thoughts I've shared with others around the web. If you'd like to interview me for your website, drop me a note or ping me through one of my social channels. I'm more than happy to do interviews via email. I keep a pretty tight schedule, though, so phone interviews are unlikely.
+Thoughts I've shared with others around the web. If you'd like to interview me for your website, drop me a note or ping me through one of my social channels. I'm more than happy to do interviews via email.
 
 * [2014-08-06: SF Signal Mind Meld](http://www.sfsignal.com/archives/2014/08/mind-meld-our-favorite-library-and-bookstore-memories/):  Wherein I reveal what Bill Cosby and Arch Oboler have in common.
 * [2013-06-02: Eclipse Spotlight with Meg Mims](http://megmims.com/2013/06/12/eclipse-spotlight-dark-fantasy-author-david-day/): Wherein I confess to drinking both coffee and tea.

@@ -2,7 +2,7 @@
 layout: page
 title: About David
 image:
-  feature: abstract-5.jpg
+  feature: all_we_have_is_now.jpg
 comments: false
 ---
 
