@@ -31,4 +31,4 @@ And yes, the [ATHF](http://www.adultswim.com/shows/aqua-teen-hunger-force/index.
 
 Cyborg Dave sleeping like a baby.
 
-![Sleeping Cyborg Dave](http://media.tumblr.com/tumblr_majm54RiUy1r5rd2t.jpg)
+![Sleeping Cyborg Dave](/assets/imported/tumblr/tumblr_majm54RiUy1r5rd2t.jpg)
