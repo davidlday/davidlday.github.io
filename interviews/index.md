@@ -2,7 +2,7 @@
 layout: page
 title: Interviews
 image:
-  feature: eyes.jpg
+  feature: feature/eyes.jpg
 comments: false
 ---
 

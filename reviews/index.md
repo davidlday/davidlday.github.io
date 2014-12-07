@@ -2,7 +2,7 @@
 layout: page
 title: Reviews
 image:
-  feature: monkey_world.jpg
+  feature: feature/life_is_good.jpg
 comments: false
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Bibliography
 image:
-  feature: eat_the_rich.jpg
+  feature: feature/read_the_book.jpg
 comments: false
 ---
 
