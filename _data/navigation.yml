@@ -1,10 +1,13 @@
 # Menu navigation links
 
 - title: Interviews
-  url: /interviews/index.html
+  url: /interviews/
 
 - title: Reviews
-  url: /reviews/index.html
+  url: /reviews/
+
+- title: Bibliography
+  url: /bibliography/
 
 - title: Bookworm
   url: http://bookworm.davidlday.com
