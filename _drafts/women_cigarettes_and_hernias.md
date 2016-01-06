@@ -5,13 +5,36 @@ tags: [reading, year-in-review, writing]
 comments: true
 ---
 
-Welcome 2016. I wish you'd have come sooner, but better late than never. Your predecessor started out okay, then soured about mid-way through and wound up being an outright jerk towards the end. His only redeeming quality was that he didn't get in the way of all the women I was trying to get to know.
+Welcome, little 2016. I wish you'd have come sooner, but better late than never.
 
-So where shall I start? The women? The cigarrettes? No, no. Let's begin where all good storytellers should - with the hernia at end. Four years. Four long, challenging, brutal years I've been working toward my black belt in Taekwondo. Finally in November I received the news I was ready for the test on December 5. Shortly after I wound up at the doctor's office with some pain, informed I likely had an inguinal hernia, and referred to a specialist. I had suffered quite a bit of discomfort since June / July, thought it related more to diet than anything else, but no - I had a hernia. So thank you, 2015, for dangling the carrot of a black belt in front of me only to whisk it away just at the end.
+Your predecessor started out okay, then soured about mid-way through and wound up being an outright jerk towards the end. His only redeeming quality was that he didn't get in the way of all the women I was trying to get to know.
 
-You listening 2016? I expect you to stay the fuck outta my way when it comes to earning my black belt.
+So where shall I start? Women? Nicotine? No, no, no. Let's begin where all good storytellers should - with the hernia at end.
+
+## The Hernia
+
+Four years. Four long, challenging, brutal years I've been working toward my black belt in Taekwondo, old man 2015. Finally, in November, I received the news I was ready for the test on December 5. But you couldn't let it be. Shortly after being informed of my pending test I wound up at the doctor's office with some pain, ultimately informed I likely had an inguinal hernia, and referred to a specialist. I had suffered quite a bit of discomfort since June / July, thought it related more to diet than anything else, but no - I had a hernia. So thank you, 2015, for dangling the carrot of a black belt in front of me only to whisk it away just at the end. Surgery in mid-December was followed by a quick recovery, so I'm hopeful my pending follow-up with the surgeon will have me cleared to return to class.
+
+You listening, 2016? I expect you to stay outta my way when it comes to earning my black belt. I'm serious.
+
+I will round house your little baby New Year face if that's what it takes.
+
+## The Cigarettes
+
+Guess what else 2015 took away from me? Yeah, my cigarettes. Not a bad thing, but it was definitely subtle and sneaky, a side effect of another little experiment I undertook.
+
+My sleep schedule is way out of wack, and has been ever since I started experimenting with in 2012 (now *that* was a great year). I managed to get  to a point where I could work with only 4-5 hours of sleep plus two 20-minute naps per day. This bought me a solid two hours of writing time in the morning before the rest of my house wakes up. But...
+
+During the course of 2015 I started having more and more difficulty focusing during writing time. Yeah, some of this was clearly due to the hernia pain (hindsight is wonderful, eh?), but not all of it. I changed jobs three years ago (about the time of my last post, coincidentally), and with that change came a whole new set of stressors. Don't get me wrong, the day job is pretty good. I'm lucky to have it, and fortunate to be surrounded by good people, but this new role challenged my networking an influencing skills in ways I didn't imagine. To use pop language to sum up the complex emotions at play, the role essentially requires this introvert to be an extrovert. I knew this going in, needed the challenge, but man, it's exhausting as hell.
+
+So back to the sleep, focus, and cigarettes...
+
+This year I wound up looking into [nootropics](https://en.wikipedia.org/wiki/Nootropic), cognitive-enhancing drugs. Now before you get the wrong idea, I started this investigation with a few ground rules: 1) no illegal substances, and 2) nothing I would be embarrassed or ashamed to share publicly. There's a lot of crazy shit going on out there around brain enhancing drugs, and if were I a younger man with no dependents I might be tempted to join in. But my life isn't conducive to massive drug experimentation so I stayed on the safe side.
+
+Green Tea. I hate it. Well, maybe not hate it but I can't drink it regularly.
 
 
+## The Women
 
 My reading list for 2015 was almost entirely women authors. The two books that weren't were written by the same male author and were non-fiction related to the day job. My voluntary fiction intake for 2015 was entirely women authors.
 
