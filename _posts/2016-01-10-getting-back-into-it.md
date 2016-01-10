@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Back Int o It
+title: Getting Back Into It
 tags: [motivation, taekwondo, writing]
 comments: true
 ---
