@@ -12,6 +12,13 @@ I like scary movies. My older brother and I used to watch [Fritz the Night Owl](
 
 I also read a lot as a kid, spending hours on end at the library reading anything dark and sticky, like candy for the brain. Now I'm all grown up, married to a lovely wife, and father to two awesome little boys. Between family, writing, and the day job I keep pretty busy. But I still make time for books and the occasional B movie.
 
+My favorite quote of all time:
+
+> When forced to work within a strict framework, the imagination is taxed to its
+> utmost… and will produce its richest ideas. Given total freedom, the work is
+> likely to sprawl.
+> - T. S. Eliot
+
 ## Bio:
 
 *David L. Day is an Ohio native living in the Columbus area with his wife, two sons, a suspicious cat, and a loyal dog. He enjoys reading all kinds of fiction, learning Taekwondo, spending time with family, and watching horror movies with his wife late at night with the lights off. David received his MA in Writing Popular Fiction from Seton Hill University in June 2011. His first novel, TEARSTONE, was published by Belfire Press in March 2013.*
