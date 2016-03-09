@@ -33,9 +33,7 @@ I’ve heard this before, or something similar. A lot can and should be implied 
 > It was less important to me to learn the answer to my first question, about the structure of a successful short story, once I understood how those structures relate to “complete” stories: I could now build up my own successful structures. But, as it happened, Geoffrey A. Landis had a pretty good description of the essential core of a short story. A story needs to:
 
 > 1. Require the character to make a choice,
-
 > 2. show that choice by actions, and
-
 > 3. those actions must have consequences.
 
 I put this to the test in December as I was working on a short targeted at a specific anthology. I won’t know if the story’s been accepted for a few months, but for this first pass I was more interested in whether the structure helped me tell the story rather than whether it helped me sell the story.

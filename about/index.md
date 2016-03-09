@@ -21,4 +21,4 @@ My favorite quote of all time:
 
 ## Bio:
 
-*David L. Day is an Ohio native living in the Columbus area with his wife, two sons, a suspicious cat, and a loyal dog. He enjoys reading all kinds of fiction, learning Taekwondo, spending time with family, and watching horror movies with his wife late at night with the lights off. David received his MA in Writing Popular Fiction from Seton Hill University in June 2011. His first novel, TEARSTONE, was published by Belfire Press in March 2013.*
+*David L. Day is an Ohio native living in the Columbus area with his wife, two sons, a suspicious cat, and a loyal dog. He enjoys reading all kinds of fiction, practicing Taekwondo, spending time with family, and watching horror movies with his wife late at night with the lights off. David received his MA in Writing Popular Fiction from Seton Hill University in June 2011. His first novel, TEARSTONE, was published by Belfire Press in March 2013.*
