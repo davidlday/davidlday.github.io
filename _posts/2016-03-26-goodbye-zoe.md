@@ -27,11 +27,11 @@ We celebrated Zoe for days before, knowing full well it was time. She ate cheese
 
 At some point we had hauled her favorite futon down to the first floor so she didn't have to climb the stairs anymore, and that's where we said goodbye. Our wonderful vet and her tech came to us. Zoe always hated the vet's office (not the vet) and we wanted her final moments to be peaceful.
 
-Our vet asked if we wanted to put a blanket down to avoid. She said sometimes an animal's bladder will empty during the process.
+Our vet asked if we wanted to put a blanket down. She said sometimes an animal's bladder will empty during the process.
 
 The futon belonged to Zoe, and we didn't really care, but...
 
-Zoe's ears perked up and she slipped clumsily from the futon. My heart snapped. I thought maybe she wasn't ready, that the whole thing was a mistake. I followed her as she scurried through our front room. She led me through the kitchen and our back room, stopped at the back door, tail perked slightly. Zoe looked at me, and though I though perhaps she would run away, I opened the door.
+Zoe's ears perked up and she slipped clumsily from the futon. My heart snapped. I thought maybe she wasn't ready, that the whole thing was a mistake. I followed her as she scurried through our front room. She led me through the kitchen and our back room, stopped at the back door, tail perked slightly. Zoe looked at me, and though I thought perhaps she would run away, I opened the door.
 
 I would have been okay if she had run off forever. It would have been easier. But she didn't.
 
