@@ -10,7 +10,7 @@ I write dark fantasy, often with a heavy helping of religious symbolism. I hold 
 
 I like scary movies. My older brother and I used to watch [Fritz the Night Owl](http://www.fritzlives.com/)'s Double Chiller Theater every Friday night. It was the most amazing thing I'd ever discovered.
 
-I also read a lot as a kid, spending hours on end at the library reading anything dark and sticky, like candy for the brain. Now I'm all grown up, married to a lovely wife, and father to two awesome little boys. Between family, writing, and the day job I keep pretty busy. But I still make time for books and the occasional B movie.
+I also read a lot as a kid, spending hours on end at the library reading anything dark and sticky, like candy for the brain. Now I'm all grown up, married to a lovely wife, and father to two awesome sons. Between family, writing, and the day job I keep pretty busy. But I still make time for books and the occasional B movie.
 
 My favorite quote of all time:
 
@@ -21,4 +21,4 @@ My favorite quote of all time:
 
 ## Bio:
 
-*David L. Day is an Ohio native living in the Columbus area with his wife, two sons, a suspicious cat, and a loyal dog. He enjoys reading all kinds of fiction, practicing Taekwondo, spending time with family, and watching horror movies with his wife late at night with the lights off. David received his MA in Writing Popular Fiction from Seton Hill University in June 2011. His first novel, TEARSTONE, was published by Belfire Press in March 2013.*
+*David L. Day is an Ohio native living in the Columbus area with his wife and two sons. In his spare time, David reads all kinds of fiction, practices Taekwondo, spends time with family, and watches horror movies late at night with the lights off. David received his MA in Writing Popular Fiction from Seton Hill University in June 2011. Tearstone, his first novel, was published by Belfire Press in March 2013. Find out more about him at his snazzy but woefully neglected website: http://www.davidlday.com (You're already here).*
