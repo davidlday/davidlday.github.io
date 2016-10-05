@@ -6,7 +6,7 @@ words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url: http://www.davidlday.com
-baseurl: 
+baseurl:
 
 # Owner/author information
 owner:
@@ -18,11 +18,11 @@ owner:
   twitter:        dday376
   facebook:       dday376
   github:         davidlday
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  stackexchange:
+  linkedin:
+  instagram:
+  flickr:
+  tumblr:
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
   google_plus:    +101361161033880716866
@@ -34,7 +34,7 @@ background: bg.png
 google_analytics:   UA-34915921-1
 google_verify:      google1fda6d23a6687e61
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
@@ -43,6 +43,7 @@ highlighter: pygments
 markdown:    kramdown
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
 sass:
   sass_dir: _sass
   style: compressed
@@ -60,7 +61,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: true
+  enable_coderay: true
 
   coderay:
     coderay_line_numbers: nil
