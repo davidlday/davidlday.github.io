@@ -1,3 +1,9 @@
-_site
-.sass-cache
+# MAcOS
 .DS_Store
+
+# https://github.com/github/gitignore/blob/master/Jekyll.gitignore
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
