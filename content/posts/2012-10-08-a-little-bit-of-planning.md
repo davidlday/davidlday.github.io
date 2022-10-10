@@ -23,7 +23,7 @@ and leaves us feeling overrun by… well, stuff.
 
 Anyhow, here’s a picture of what we’re working on:
 
-![Hall Closet Insert](/assets/imported/tumblr/tumblr_mbkfd1OCZn1r5rd2t.jpg)
+![Hall Closet Insert](/images/imported/tumblr/tumblr_mbkfd1OCZn1r5rd2t.jpg)
 
 There’s still a lot to do—fill nail holes, paint, put a kick-plate on, etc—but
 you get the idea of what we’re going for. We’ll each have limited space for our
@@ -93,4 +93,4 @@ while I’m pounding away at the keyboard.
 
 So long, and remember…
 
-![A little bit of planning](/assets/imported/tumblr/tumblr_mbkgx9zjxp1r5rd2t.jpg)
+![A little bit of planning](/images/imported/tumblr/tumblr_mbkgx9zjxp1r5rd2t.jpg)

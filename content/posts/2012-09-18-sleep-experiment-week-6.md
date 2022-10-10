@@ -57,4 +57,4 @@ is also standard sleep gear.
 
 Cyborg Dave sleeping like a baby.
 
-![Sleeping Cyborg Dave](/assets/imported/tumblr/tumblr_majm54RiUy1r5rd2t.jpg)
+![Sleeping Cyborg Dave](/images/imported/tumblr/tumblr_majm54RiUy1r5rd2t.jpg)

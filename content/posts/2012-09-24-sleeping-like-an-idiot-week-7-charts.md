@@ -17,13 +17,13 @@ and the trend is in orange. For now I just used a Simple Moving Average since
 the charts are just to get a sense of how things are going and aren’t meant to
 give highly accurate measures.
 
-![Sleep Chart 1](/assets/imported/tumblr/tumblr_matxxyqguu1r5rd2t.png)
+![Sleep Chart 1](/images/imported/tumblr/tumblr_matxxyqguu1r5rd2t.png)
 
-![Sleep Chart 2](/assets/imported/tumblr/tumblr_matxz30K4v1r5rd2t.png)
+![Sleep Chart 2](/images/imported/tumblr/tumblr_matxz30K4v1r5rd2t.png)
 
-![Sleep Chart 3](/assets/imported/tumblr/tumblr_matxzd1QbB1r5rd2t.png)
+![Sleep Chart 3](/images/imported/tumblr/tumblr_matxzd1QbB1r5rd2t.png)
 
-![Sleep Chart 4](/assets/imported/tumblr/tumblr_matxzoghav1r5rd2t.png)
+![Sleep Chart 4](/images/imported/tumblr/tumblr_matxzoghav1r5rd2t.png)
 
 Here’s a quick review of and update on my goals as set out in my [Week 5
 Post]({% post_url 2012-09-09-reintroducing-the-sleep-experiment-5-weeks-5 %}):

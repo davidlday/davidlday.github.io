@@ -20,7 +20,7 @@ my novel and fielding questions from the audience.
 
 This is me reading.
 
-![Thesis Reading](/assets/imported/2011/07/Thesis-Reading-225x300.jpg)
+![Thesis Reading](/images/imported/2011/07/Thesis-Reading-225x300.jpg)
 
 _Photo Copyright [Coelynn McIninch](http://coelynn.com/)_
 

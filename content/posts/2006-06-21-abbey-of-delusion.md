@@ -5,7 +5,7 @@ date: "2006-06-21"
 categories: [archive, broken_abbey, poetry]
 ---
 
-![Broken Abbey](/assets/imported/2007/03/broken_abbey.jpg)
+![Broken Abbey](/images/imported/2007/03/broken_abbey.jpg)
 
 ```poem
 I built my self an Abbey of delusion content

@@ -5,7 +5,7 @@ date: "2007-05-09"
 categories: [archive, broken_abbey, poetry]
 ---
 
-[![Translucent Prisoner](/assets/imported/2007/05/translucent-prisoner.jpg)](/assets/imported/2007/05/translucent-prisoner.jpg "Translucent Prisoner")
+[![Translucent Prisoner](/images/imported/2007/05/translucent-prisoner.jpg)](/images/imported/2007/05/translucent-prisoner.jpg "Translucent Prisoner")
 
 ```poem
 their wild steel universe

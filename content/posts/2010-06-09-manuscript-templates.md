@@ -26,7 +26,7 @@ I'll add it.
 Instructions
 
 1.  Download the zip:
-    [Shunn OpenOffice Templates](/assets/imported/2010/06/Shunn-OpenOffice-Templates.zip)
+    [Shunn OpenOffice Templates](/images/imported/2010/06/Shunn-OpenOffice-Templates.zip)
 2.  Extract to any directory. You should see two files: "Shunn Novel Format.ott"
     and "Shunn Short Story Format.ott"
 3.  In OpenOffice Writer, select **File \>\> Templates \>\> Organize** from the

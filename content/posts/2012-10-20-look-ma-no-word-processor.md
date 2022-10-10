@@ -41,7 +41,7 @@ dozen or so chapter of my work in process. This worked just as well as when I
 did a similar activity for my last novel using real index cards. Here’s the
 result:
 
-![IndexCard Screenshot 1](/assets/imported/tumblr/tumblr_mc700hRlEV1r5rd2t.png)
+![IndexCard Screenshot 1](/images/imported/tumblr/tumblr_mc700hRlEV1r5rd2t.png)
 
 The green cards are complete, the yellow is where I was at a few days ago (when
 planning this post), and the white are still to be done. You can visit the app’s
@@ -54,7 +54,7 @@ entirely while working on a first draft. Each card has a long text area. You can
 toggle whether to show the field, so I hid it while working on structure then
 showed it when I was ready to work on the draft.
 
-![IndexCard Screenshot 2](/assets/imported/tumblr/tumblr_mc70abOa5w1r5rd2t.png)
+![IndexCard Screenshot 2](/images/imported/tumblr/tumblr_mc70abOa5w1r5rd2t.png)
 
 The app will also export to Dropbox in RTF, plus a few different formats. The
 resulting RTF is in a generic format, and when I looked at it my heart sunk a
@@ -81,7 +81,7 @@ work of significant length.
 So if you’re like me, and you find yourself constantly distracted by your own
 word processor, take a look at Index Card. And…
 
-![IndexCard Screenshot 3](/assets/imported/tumblr/tumblr_mc6z3kDOtd1r5rd2t.png)
+![IndexCard Screenshot 3](/images/imported/tumblr/tumblr_mc6z3kDOtd1r5rd2t.png)
 
 If you’ve abandoned your word processor in favor of some other writing tool, I’d
 love to hear about it!
