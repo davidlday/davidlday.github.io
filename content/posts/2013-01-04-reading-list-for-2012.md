@@ -1,25 +1,31 @@
 ---
 layout: post
-title: 'Reading List for 2012 '
-date: '2013-01-04T09:12:00-05:00'
+title: "Reading List for 2012 "
+date: "2013-01-04T09:12:00-05:00"
 tags: []
 tumblr_url: http://tumblr.davidlday.com/post/39655590532/reading-list-for-2012
 ---
-Following the lead of Chris Shearer and Heidi Ruby Miller, I’m sharing my reading list from 2012.
 
-My goal was 40 books, and I came in just over at 41. Some of my favorites were Never Let Me Go by Kazuo Ishiguro,  John Dies at the End by David Wong, Westlake Soul by Rio Youers, The Passage by Justin Cronin, and The Croning by Laird Barron.
+Following the lead of Chris Shearer and Heidi Ruby Miller, I’m sharing my
+reading list from 2012.
+
+My goal was 40 books, and I came in just over at 41. Some of my favorites were
+Never Let Me Go by Kazuo Ishiguro, John Dies at the End by David Wong, Westlake
+Soul by Rio Youers, The Passage by Justin Cronin, and The Croning by Laird
+Barron.
 
 My 2012 reading list in alphabetical order:
 
-1.  Ancient Images by Ramsey Campbell
-2.  Back Roads & Frontal Lobes by Brady Allen
-3.  Booklife: Strategies and Survival Tips for the 21st Century Writer by Jeff VanderMeer
-4.  Bottled Abyss by Benjamin Kane Ethridge
-5.  Brimstone by Douglas Preston & Lincoln Child
-6.  Dead City by Joe McKinney
-7.  Dreaming While Awake: Techniques for 24-Hour Lucid Dreaming by Arnold Mindell
-8.  ECTOSTORM:  Book Three of the Stanley Cooper Chronicles by Scott A. Johnson
-9.  In the Midnight Museum by Gary A. Braunbeck
+1. Ancient Images by Ramsey Campbell
+2. Back Roads & Frontal Lobes by Brady Allen
+3. Booklife: Strategies and Survival Tips for the 21st Century Writer by Jeff
+   VanderMeer
+4. Bottled Abyss by Benjamin Kane Ethridge
+5. Brimstone by Douglas Preston & Lincoln Child
+6. Dead City by Joe McKinney
+7. Dreaming While Awake: Techniques for 24-Hour Lucid Dreaming by Arnold Mindell
+8. ECTOSTORM: Book Three of the Stanley Cooper Chronicles by Scott A. Johnson
+9. In the Midnight Museum by Gary A. Braunbeck
 10. John Dies at the End by David Wong
 11. Mama Said by Lee Allen Howard
 12. Naked Lunch by William S. Burroughs
@@ -42,7 +48,8 @@ My 2012 reading list in alphabetical order:
 29. The Other Place by Nancy Robison
 30. The Painted Darkness by Brian James Freeman
 31. The Passage by Justin Cronin
-32. The Power of Presence: Unlock Your Potential to Influence and Engage Others by Kristi Hedges
+32. The Power of Presence: Unlock Your Potential to Influence and Engage Others
+    by Kristi Hedges
 33. The Red Church by Scott Nicholson
 34. The Sixth Seed by Lee Allen Howard
 35. The War of Art by Steven Pressfield
@@ -53,4 +60,6 @@ My 2012 reading list in alphabetical order:
 40. Vipers by Lawrence C. Connolly
 41. Westlake Soul by Rio Youers
 
-I’m keeping my goal for next year at 40 for now as I have some pretty thick books in mind, but may bump it up mid-year if I’m making good progress on both reading and writing.
+I’m keeping my goal for next year at 40 for now as I have some pretty thick
+books in mind, but may bump it up mid-year if I’m making good progress on both
+reading and writing.
