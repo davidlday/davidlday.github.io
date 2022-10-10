@@ -106,9 +106,7 @@ params:
     title: "David."
     subtitle: "I used to live there, but now I live here."
     content:
-      "A passionate web app developer. I tend to make use of modern web
-      technologies to build websites that looks great, feels fantastic, and
-      functions correctly."
+      I'm a writer. A software engineer. A thinker. Perhaps an over thinker.
     image: /images/feature/one_day.jpg
     button:
       enable: true
