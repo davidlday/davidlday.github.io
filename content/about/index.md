@@ -1,10 +1,21 @@
 ---
 layout: page
-title: About David
-image:
-  feature: images/feature/all_we_have_is_now.jpg
+title: David’s Writer Bio
+image: /images/feature/all_we_have_is_now.jpg
+toc: true
+socialShare: false
 comments: false
 ---
+
+## Short Bio
+
+David Day believes the future is a paradox, simultaneously representing
+beautiful hope and terrible possibility, and that we are on an ever-constant
+journey to resolve that paradox into the now. David received his MA in Writing
+Popular Fiction from Seton Hill University in June 2011. He is the author of one
+novel, [Tearstone](/bibliography), as well as several short stories.
+
+## A Little More…
 
 I write dark fantasy, often with a heavy helping of religious symbolism. I hold
 a BA in English, Creative Writing, and an MBA from Ohio University. I'm also a
@@ -29,14 +40,3 @@ My favorite quote of all time:
 > likely to sprawl.
 >
 > - T. S. Eliot
-
-## Biography
-
-_David L. Day is an Ohio native living in the Columbus area with his wife and
-two sons. In his spare time, David reads all kinds of fiction, practices
-Taekwondo, spends time with family, and watches horror movies late at night with
-the lights off. David received his MA in Writing Popular Fiction from Seton Hill
-University in June 2011. Tearstone, his first novel, was published by Belfire
-Press in March 2013. Find out more about him at his snazzy but woefully
-neglected website: [http://www.davidlday.com](http://www.davidlday.com) (You're
-already here)._
