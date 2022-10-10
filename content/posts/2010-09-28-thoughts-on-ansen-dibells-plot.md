@@ -7,10 +7,10 @@ categories: [archive, broken_abbey, shu_journal]
 
 One of the most challenging things I struggle with as both a writer of fiction
 and a student of literature (yeah, they always go together) is which tool to use
-when. I believe that while reading and writing are intricately related--you must
+when. I believe that while reading and writing are intricately related--you must
 be well-read to be well-written--they don't use the same mental tools.
 
-The term plot (my archenemy when it comes to writing) appears in both toolkits,
+The term plot (my archenemy when it comes to writing) appears in both toolkits,
 and I think that is terribly confusing.
 
 I believe that good stories almost invariable need a good plot. But I also
@@ -19,7 +19,7 @@ plot as used by writers. Plot as a complex tool of literary analysis does me
 little good as a writer. I don't want an analysis of an end product, I want
 guidelines for creating something new.
 
-Ansen Dibell shows us in [Plot](http://amzn.to/crztiv) that she understands the
+Ansen Dibell shows us in [Plot](http://amzn.to/crztiv) that she understands the
 need for this distinction. She opens chapter one with:
 
 > The common definition of plot is that it's whatever happens in a story. That's
@@ -44,7 +44,7 @@ dutifully tacked up on my bulliten board:
 The rest of the chapters address various elements a writer should pay attention
 to when working on a story to help craft the plot: openings, point-of-view
 (POV), exposition, middles, scene building, melodrama, patterns, pacing, and
-endings. In all of her discussions, she provides excellent supporting examples,
+endings. In all of her discussions, she provides excellent supporting examples,
 some from the original Star Wars trilogy, which I think takes her advice from
 academic to practical. I recommend the book to anyone interested in writing.
 Here are a few ways she helped me.
@@ -58,18 +58,18 @@ That's nine viewpoints across 400 pages.
 Dibell suggests sticking with a single POV, and tells us that, "A story with too
 many focuses can become a story with no focus at all." (pg 12) I panicked, but
 not for long. She concedes that a writer may choose to use multiple POVs and
-provides practical advice to reduce reader distraction, such as building
-in connections, keeping things simple at the beginning, and never switching in
-the middle of a scene. But above all, she reminds us that it is the writer's
-eyes that matter the most, that the writer must have a coherent vision of the
-story. Whew. I think I'm okay then.
+provides practical advice to reduce reader distraction, such as building in
+connections, keeping things simple at the beginning, and never switching in the
+middle of a scene. But above all, she reminds us that it is the writer's eyes
+that matter the most, that the writer must have a coherent vision of the story.
+Whew. I think I'm okay then.
 
 I also found the chapter on melodrama enlightening. It made me realize that I
 often avoid melodrama in my scenes, tending more towards understatement and
 subtlety. But she tells us that melodrama is critical to creating a good plot:
 
-> Melodrama is the technique of revealing reality by concentrating on the ends
-> of the spectrum rather than the middle, the remarkable rather than the
+> Melodrama is the technique of revealing reality by concentrating on the ends
+> of the spectrum rather than the middle, the remarkable rather than the
 > ordinary. (pg 81)
 
 She calls it lightning, and she's right. In fiction, particularly in genre
@@ -104,12 +104,12 @@ the straightforward and the sleight-of-hand.
 4.  Have a character expecting a smaller and more credible version of the thing
     you actually intend to spring on him.
 
-She closes the chapter by suggesting that novel-length fiction should
-use multiple techniques throughout, which seems like a given to me. But she's
+She closes the chapter by suggesting that novel-length fiction should use
+multiple techniques throughout, which seems like a given to me. But she's
 provided a practical list of tools that I can use to strengthen my current work,
 which deals with some pretty extraordinary events.
 
-Other chapters  of note for me were on patterns, and of course, coming to the
+Other chapters of note for me were on patterns, and of course, coming to the
 end. Ending a story is always a struggle for me, I think in part because I'm
 afraid I didn't say enough--which is a very bad fear for a writer to have--or
 maybe because I'm just not sure when I got there. She emphasis that we must stop

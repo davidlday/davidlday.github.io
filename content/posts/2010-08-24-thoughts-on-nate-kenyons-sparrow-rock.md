@@ -65,7 +65,7 @@ Pete acknowledges later in the narrative that she's imaginary, and part of his
 coming to grips with killing his father is to abandon her as a support system.
 She helps him survive, she's harmless to the others (in fact, early on Pete
 talks about how she helped change bandages on one of the other kids), and she
-helps the reader understand just how broken he is. I think, in the end, Pete's 
+helps the reader understand just how broken he is. I think, in the end, Pete's
 survival is all the more merited because he's not only fought the crazy,
 postapocalyptic bugs, but because he's had to work though an issue he had
 resigned to living with long before the story starts.

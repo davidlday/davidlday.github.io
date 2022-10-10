@@ -140,11 +140,11 @@ What he lead to is that the most frightening things to the British audience are
 those that can't be seen. So, the most frightening things are those based on
 internals - social ills, ghosts, stuff that can't be seen. I think what he is
 driving at is that there's tremendous value for the modern horror author in
-working with things less tangible than the old vampires and werewolves.  I
-wasn't really getting a point from him until he brought up Easton Ellis's
-_American Psycho_. It works so well because it drives the reader into the head
-of a madman. Aside from the gruesome acts of the main character, being inside
-his head adds an element of horror beyond.
+working with things less tangible than the old vampires and werewolves. I wasn't
+really getting a point from him until he brought up Easton Ellis's _American
+Psycho_. It works so well because it drives the reader into the head of a
+madman. Aside from the gruesome acts of the main character, being inside his
+head adds an element of horror beyond.
 
 **New Horrors: A Roundtable Discussion of Horror Today and Tomorrow, _Joe
 Nassise (moderator)_**

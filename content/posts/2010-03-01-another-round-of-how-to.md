@@ -11,13 +11,13 @@ articles by some of the best horror writers, circa 1987.
 
 Late last year I did a series of posts on _On Writing Horror_, another
 collection of How-To articles by some of horror's best writers circa 2007.
- Twenty years separate the publication of these two books, but so far I haven't
+Twenty years separate the publication of these two books, but so far I haven't
 found anything other than the market survey that really differentiate the two.
- I've commented before that information repeated across authors is usually good
+I've commented before that information repeated across authors is usually good
 advice, and I think that's still true. But, I'm a little disappointed that I
 haven't found anything new here. Yet.
 
-**\*The Editor's Forward: Certain of What We Do Not See\*\*\***, J. N.
+**\*The Editor's Forward: Certain of What We Do Not See\*\*\***, J. N.
 Williamson\*\*
 
 Williamson gives a brief survey of the markets, then dives into providing
@@ -36,8 +36,8 @@ really fall under this one umbrella of fantasy.
 
 I would sum up Bloch's article as: Let the story dictate genre and length.
 
-According to Bloch, hackwork flooded the market at that time (his words, not
-mine). And most of that work consisted of ideas stretched to meet commercial
+According to Bloch, hackwork flooded the market at that time (his words, not
+mine). And most of that work consisted of ideas stretched to meet commercial
 needs. He says that the difference between current authors and those who endured
 is that the enduring authors had something to say and knew how to say it.
 
@@ -81,19 +81,19 @@ how the story comes around for me. I set an idea down, I pull together some
 characters, and I let them work it out. As the story takes shape, I discover new
 facets and characters that I feel must have been present all along, I just
 hadn't seen them yet. The more I write, the more I uncover. That could lead to
-wandering and voluminous work, but I temper it with economy of language.
+wandering and voluminous work, but I temper it with economy of language.
 
 I think the metaphor of writer as archaeologist works for me, so I'll hang onto
 it for now.
 
 **\*Plotting as Your Power Source\*\*\***, J. N. Williamson\*\*
 
-I have mixed reactions to Williamson's essay on Plot.  He breaks it down into 4
+I have mixed reactions to Williamson's essay on Plot. He breaks it down into 4
 parts.
 
 ​1. Defining the Plot
 
-Williamson claims hat all novels must have a sense that things are going
+Williamson claims hat all novels must have a sense that things are going
 somewhere. One can hardly disagree:
 
 > ...a plot is _not_ an idea, one fairly well-rounded character, a flurry of
@@ -207,13 +207,13 @@ approach, but I think it breaks in very complex stories, or stories where the
 protagonist and the POV character are different.
 
 Detail is also more important in SF/F/H than in other genres, according to Tem.
- He states that in science fiction, "people and communities characterized by the
+He states that in science fiction, "people and communities characterized by the
 devices...they choose to surround themselves with." And that in horror, the
 reader needs to focus on detail to better understand the character, and possibly
 recognize things about the characters they either ignore or deny.
 
 Finally, Tem links character and plot, stating that using plot to characterize
-just extends the idea of characterization through action. He suggests that if
+just extends the idea of characterization through action. He suggests that if
 working in the context of dream characterization, that those actions that happen
 to a character must also be considered reflections of the character. Sounds like
 karma to me.
@@ -248,7 +248,7 @@ get at something deeper and become more than just representational of reality.
 
 That seems pretty daunting at first. I think he's right--names are critical
 because they are usually a reader's first brush with the things they represent.
- We introduce characters and places and things by name, or we withhold the name
+We introduce characters and places and things by name, or we withhold the name
 (on rare occasion) to create impact later in the story. They have to be the
 right names.
 
@@ -287,7 +287,7 @@ Kisner**
 
 Kisner claims that the genres in question give the writer more opportunity for
 originality than the others. The writer must train his imagination to recognize
-for two reasons. First, "the mind is easily fooled into grasping the obvious and
+for two reasons. First, "the mind is easily fooled into grasping the obvious and
 claiming it for its own." Second, he says that beginning writers are told
 incorrectly that there's nothing new--it's all been done before.
 
@@ -316,7 +316,7 @@ spark originality. As T. S. Eliot said:
 > likely to sprawl.
 
 I think originality can also be encouraged by placing constraints on yourself.
- Back yourself into a corner and see how you get out.
+Back yourself into a corner and see how you get out.
 
 **\*Creating Fantasy Folk\*\*\***, Ardath Mayhar\*\*
 
@@ -355,9 +355,9 @@ Koontz cautions us against confusing action for suspense, and says that action
 can only be suspense if the writer understands:
 
 > ​(1) suspense in fiction results primarily from the reader's identification
-> with and concern about lead characters who are complex, convincing, and
-> appealing; and (2) anticipation of violence is infinitely
-> more suspenseful than the violence itself.
+> with and concern about lead characters who are complex, convincing, and
+> appealing; and (2) anticipation of violence is infinitely more suspenseful
+> than the violence itself.
 
 I agree with Koontz, but I think the first is another way of saying that the
 reader must care for your characters. That's common advice among my reading. I
@@ -366,7 +366,7 @@ well-described acts of violence. To be fair, I've engaged in the latter, but
 that doesn't make it right. You give the reader more when you build up
 anticipation.
 
-Koontz continues to tell us that good, likable characters are important for
+Koontz continues to tell us that good, likable characters are important for
 horror because the best horrors are those we find lurking inside the hearts and
 minds of people. In order to get our reader to come down that path, we must
 present them with characters whose heads they want to get into.

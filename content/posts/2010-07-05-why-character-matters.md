@@ -17,7 +17,7 @@ old Jewish folk tale based on [Judah Loew](http://bit.ly/bArhVJ), a 16th century
 rabbi who created a golem to defend a Prague ghetto from anti-Semitic attacks.
 Lee brings the folktale to life with vibrant rituals and an exploration of a
 dark sect of Kabbalah based on Kischuph. The story revolves around the small
-town of Lowensport, Maryland. In 1880, a group of Jewish refugees from Prague, 
+town of Lowensport, Maryland. In 1880, a group of Jewish refugees from Prague,
 led by the evil rabbi Gavriel Loew, construct two golems to defend themselves
 from the attack of the Conner clan, a local group of settlers lead by an
 ex-military deserter. The story is told in parallel with the present-day tale of

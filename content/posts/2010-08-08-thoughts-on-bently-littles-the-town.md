@@ -53,5 +53,5 @@ culture. They're a fascinating sect of Christianity from Russia, and I think
 Bently's use of Molokans instead of the more familiar Catholics gave the book an
 interesting take on christian spirituality and mythology.
 
-If you like  small-town horror and supernatural horror, this book should be on
+If you like small-town horror and supernatural horror, this book should be on
 your list. I'll definitely pick up more of Bently's work down the road.
