@@ -255,12 +255,19 @@ params:
   # projects
   projects:
     enable: true
-    title: "Novels"
+    title: "Books"
     items:
+      - title: Miscalculations
+        content: |-
+          Currently Unavailable. A collection of poetry from my younger years. Some I'm proud of, others, not so much. I'm looking into options for re-releasing in a sustainable way.
+        image: /images/covers/miscalculations.jpg
+        # featured:
+        #   name: Dark Recesses Press
+        #   link: https://darkrecessespress.com/product/tearstone-2/
       - title: Tearstone
         content: |-
           "Tearstone is a pitch black work of horror that has it all: high action terror, bizarro nightmares, and soul-scarring occultism. Don't overlook this new occult thriller, and make sure you keep watching David Day. He's part of the new dawn of the horror genre, and its already rising." - Michael A. Arnzen, Bram Stoker Award-winning Author of Play Dead
-        image: https://i0.wp.com/darkrecessespress.com/wp-content/uploads/2021/11/TearstoneNEW_Front-550x750-1.jpg?fit=550%2C750&ssl=1
+        image: /images/covers/tearstone.jpg
         featured:
           name: Dark Recesses Press
           link: https://darkrecessespress.com/product/tearstone-2/
@@ -268,11 +275,11 @@ params:
         #   - "Hugo"
         #   - "Bootstrap"
         #   - "Javascript"
-        links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          # - icon: fab fa-twitter
-          #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+        # links:
+        #   - icon: fa fa-envelope
+        #     url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+        # - icon: fab fa-twitter
+        #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
       # - title: Image Converter
       #   content:
