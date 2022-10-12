@@ -1,18 +1,24 @@
 ---
 layout: page
 title: Bibliography
-image:
-  feature: images/feature/read_the_book.jpg
+image: /images/feature/read_the_book.jpg
+toc: false
+socialShare: false
 comments: false
 ---
 
-## Novels
+## Books
 
 - Tearstone ([Kindle](https://amzn.to/2VDqCcd) or
   [Paperback](https://amzn.to/2ABlYSW)) - Dark Recesses Press, March 2018
+- Miscalculations - No longer available. Rutledge Books, 1995. Yes, it’s on
+  Amazon, and someone thinks they can sell a copy for $45. Don’t buy it. I’ll be
+  republishing it sometime.
 
 ## Short Stories
 
+1. "The Infernal Gift" - [That Which Cannot Be Undone](https://amzn.to/3yzUOKg),
+   October 2022
 1. "Defend Atlantis" - [Terror Politico](https://amzn.to/2sjK14h), January 2019
 1. "Vacation" - [Aurora Wolf](https://aurorawolf.com/2018/10/vacation/), October
    2018
