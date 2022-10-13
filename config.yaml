@@ -20,35 +20,35 @@ Menus:
       url: /#about
       weight: 1
 
+    - identifier: books
+      name: Books
+      title: Some books I've published.
+      url: /#books
+      weight: 2
+
+    - identifier: shorts
+      name: Shorts
+      title: Some short stories I've published.
+      url: /#shorts
+      weight: 3
+
     - identifier: experience
       name: Experience
       title: A shortened version of my resume.
       url: /#experience
-      weight: 2
+      weight: 4
 
     - identifier: education
       name: Education
       title: Schools I attended.
       url: /#education
-      weight: 3
-
-    - identifier: books
-      name: Books
-      title: Some books I've published.
-      url: /#books
       weight: 5
-
-    - identifier: shorts
-      name: Shorts
-      title: Some short stories I've published.
-      url: /#achievements
-      weight: 6
 
     - identifier: contact
       name: Contact
       title: Contact me, for whatever reason.
       url: /#contact
-      weight: 7
+      weight: 98
 
     # Dropdown menu
     - identifier: main
@@ -134,7 +134,7 @@ params:
     enable: true
     intro: "👋, my name is"
     title: "David."
-    subtitle: "Writer. Developer. Thinker."
+    subtitle: "Writer. Coder. Thinker."
     content: |-
       ...perhaps an over thinker. Scroll 👇 to learn more about me.
     image: /images/feature/one_day.jpg
@@ -157,12 +157,17 @@ params:
     image: "/images/david-l-day.jpg"
     content: |-
       I love making things, playing video games, and spending time in the
-      playground of my own mind. I'm not a photographer by any stretch, but most
-      of the photos on this site were taken by me. The headshot was not. That
-      was my son.
+      playground 🛝 of my own mind. 🧠
 
-      There's a bunch of facts about me below, but that's probably not super
-      interesting.
+      I love my partner 👩 and children 🧒🧒.
+
+      I love when ideas 💡 flow freely between people 🧑🏽‍🤝‍🧑🏽.
+
+      I love books 📚.
+
+      I've come to hate social media 🤡🤡 🗑️🔥.
+
+      There's a bunch of facts about me below, if you're interested.
 
     skills:
       enable: false
@@ -255,6 +260,29 @@ params:
 
   # Achievements
   achievements:
+    enable: false
+    title: "Short Stories"
+    items:
+      - title: The Infernal Gift
+        content: That Which Cannot Be Undone, October 2022.
+        url: https://www.crackedskullpress.com/books/twcbu/
+      - title: Defend Atlantis
+        content: Terror Politico, January 2019
+        url: https://amzn.to/2sjK14h
+      - title: Vacation
+        content: Aurora Wolf, Vol. 9 Issue 10, October 2018
+        url: https://aurorawolf.com/2018/10/vacation/
+      - title: Black Hand
+        content: Double Feature Magazine, Issue 1, October 2016
+        url: http://amzn.to/2dwD20r
+      - title: A Gathering of Lost Shadows
+        content: Hazard Yet Forward, August 2012
+        url: http://amzn.to/1Lj59rf
+      - title: Gray
+        content: Necrotic Tissue, Issue 5, January 2009
+
+  # Achievements
+  shorts:
     enable: true
     title: "Short Stories"
     items:
@@ -368,8 +396,8 @@ params:
   footer:
     recentPosts: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
+      github: https://github.com/davidlday
+      linkedin: https://linkedin.com/in/dday376
       # twitter: https://twitter.com
       # instagram: https://instagram.com
       # facebook: https://facebook.com
