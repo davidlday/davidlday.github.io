@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Reviews
-image:
-  feature: images/feature/life_is_good.jpg
+author: D-Day
+date: 2014-12-07
+image: /images/feature/life_is_good.jpg
 comments: false
 ---
 

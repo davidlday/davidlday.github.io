@@ -2,6 +2,8 @@
 layout: page
 title: Bibliography
 image: /images/feature/read_the_book.jpg
+author: D-Day
+date: 2022-10-13
 toc: false
 socialShare: false
 comments: false

@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Interviews
-image:
-  feature: images/feature/eyes.jpg
+author: D-Day
+date: 2014-12-07
+image: /images/feature/eyes.jpg
 comments: false
 ---
 
