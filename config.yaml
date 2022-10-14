@@ -4,7 +4,7 @@ title: "David L. Day"
 theme: hugo-profile
 
 Paginate: 3
-# disqusShortname: gurusabarish
+disqusShortname: davidlday
 # googleAnalytics: G-DWJJVE27WD
 
 # markup:
@@ -55,24 +55,36 @@ Menus:
       title: Other Stuff
       name: Other Stuff
       weight: 99
-    - identifier: posts-archive
-      title: Old Blog Posts
-      name: Posts Archive
-      url: /posts-archive
-      parent: main
-      weight: 1
     - identifier: bibliography
       title: Bibliography
       name: Bibliography
       url: /bibliography
       parent: main
-      weight: 2
+      weight: 1
     - identifier: writers-bio
       title: My Writer's Bio
       name: Writer's Bio
       url: /about
       parent: main
+      weight: 2
+    - identifier: interviews
+      title: Interviews
+      name: Interviews
+      url: /interviews
+      parent: main
       weight: 3
+    - identifier: reviews
+      title: Reviews of my work.
+      name: Reviews
+      url: /reviews
+      parent: main
+      weight: 4
+    - identifier: posts-archive
+      title: Old Blog Posts
+      name: Posts Archive
+      url: /posts-archive
+      parent: main
+      weight: 99
 
 params:
   title: "David L. Day"
@@ -184,6 +196,19 @@ params:
     enable: true
     title: "Experience"
     items:
+      - job: "Partner"
+        company: "Cracked Skull Press"
+        companyUrl: "https://crackedskullpress.com"
+        date: "October 2021 - present"
+        info:
+          enable: false
+        featuredLink:
+          enable: true
+          name: That Which Cannot Be Undone
+          url: "https://crackedskullpress.com/books/twcbu/"
+        content: |
+          I'm currently a partner in Cracked Skull Press, an independent publishing company in Columbus, OH, founded in 2021. Our initial project, That Which Cannot Be Undone, is an anthology of horror stories by Ohio authors, all set in Ohio. This is not how I earn income, though. See the Invesco tab for details on my day job.
+
       - job: "Senior Principal"
         company: "Invesco"
         companyUrl: "https://careers.invesco.com/"
@@ -210,19 +235,6 @@ params:
             - Consultant, IT Application Development in Corporate Finance
             - Lead, Data Engineering in Corporate Finance
             - Lead, System Analyst in Corporate Finance
-
-      - job: "Partner"
-        company: "Cracked Skull Press"
-        companyUrl: "https://crackedskullpress.com"
-        date: "October 2021 - present"
-        info:
-          enable: false
-        featuredLink:
-          enable: true
-          name: That Which Cannot Be Undone
-          url: "https://crackedskullpress.com/books/twcbu/"
-        content: |
-          I'm currently a partner in Cracked Skull Press, an independent publishing company in Columbus, OH, founded in 2021. Our initial project, That Which Cannot Be Undone, is an anthology of horror stories by Ohio authors, all set in Ohio.
 
   # Education
   education:
@@ -308,20 +320,20 @@ params:
     enable: true
     title: "Books"
     items:
-      - title: Miscalculations
-        content: |-
-          Currently Unavailable. A collection of poetry from my younger years. Some I'm proud of, others, not so much. I'm looking into options for re-releasing in a sustainable way.
-        image: /images/covers/miscalculations.jpg
-        # featured:
-        #   name: Dark Recesses Press
-        #   link: https://darkrecessespress.com/product/tearstone-2/
       - title: Tearstone
         content: |-
           "Tearstone is a pitch black work of horror that has it all: high action terror, bizarro nightmares, and soul-scarring occultism. Don't overlook this new occult thriller, and make sure you keep watching David Day. He's part of the new dawn of the horror genre, and its already rising." - Michael A. Arnzen, Bram Stoker Award-winning Author of Play Dead
-        image: /images/covers/tearstone.jpg
+        image: /images/covers/tearstone.png
         featured:
           name: Dark Recesses Press
           link: https://darkrecessespress.com/product/tearstone-2/
+      - title: Miscalculations
+        content: |-
+          Currently Unavailable. A collection of poetry from my younger years. Some I'm proud of, others, not so much. I'm looking into options for re-releasing in a sustainable way.
+        image: /images/covers/miscalculations.png
+        # featured:
+        #   name: Dark Recesses Press
+        #   link: https://darkrecessespress.com/product/tearstone-2/
 
   # projects
   projects:
