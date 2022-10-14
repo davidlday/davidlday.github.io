@@ -20,35 +20,35 @@ Menus:
       url: /#about
       weight: 1
 
+    - identifier: contact
+      name: Contact
+      title: Contact me, for whatever reason.
+      url: /#contact
+      weight: 2
+
     - identifier: books
       name: Books
       title: Some books I've published.
       url: /#books
-      weight: 2
+      weight: 3
 
     - identifier: shorts
       name: Shorts
       title: Some short stories I've published.
       url: /#shorts
-      weight: 3
+      weight: 4
 
     - identifier: experience
       name: Experience
       title: A shortened version of my resume.
       url: /#experience
-      weight: 4
+      weight: 5
 
     - identifier: education
       name: Education
       title: Schools I attended.
       url: /#education
-      weight: 5
-
-    - identifier: contact
-      name: Contact
-      title: Contact me, for whatever reason.
-      url: /#contact
-      weight: 98
+      weight: 6
 
     # Dropdown menu
     - identifier: main
