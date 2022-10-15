@@ -1,7 +1,7 @@
 ---
 title: Goodbye WordPress
 layout: post
-date: "2012-03-04"
+date: 2012-03-04
 categories: [archive, broken_abbey]
 ---
 

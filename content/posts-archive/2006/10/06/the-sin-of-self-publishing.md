@@ -1,7 +1,7 @@
 ---
 title: "The Sin of Self-Publishing"
 layout: post
-date: "2006-10-06"
+date: 2006-10-06
 categories: [archive, broken_abbey]
 ---
 

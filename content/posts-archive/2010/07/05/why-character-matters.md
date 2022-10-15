@@ -1,7 +1,7 @@
 ---
 title: Why Character Matters
 layout: post
-date: "2010-07-05"
+date: 2010-07-05
 categories: [archive, broken_abbey, shu_journal]
 ---
 

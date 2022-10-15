@@ -1,7 +1,7 @@
 ---
 title: "Institutionalized"
 layout: post
-date: "2006-06-25"
+date: 2006-06-25
 categories: [archive, broken_abbey]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "1000 Words"
 layout: post
-date: "2006-06-07"
+date: 2006-06-07
 categories: [archive, broken_abbey]
 ---
 

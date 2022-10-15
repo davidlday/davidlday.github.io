@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Saying Goodbye to Our Dog
-date: "2016-03-26"
+date: 2016-03-26
 tags: [life]
 comments: true
 toc: false

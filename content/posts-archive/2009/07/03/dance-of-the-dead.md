@@ -1,7 +1,7 @@
 ---
 title: "“Dance of the Dead”"
 layout: post
-date: "2009-07-03"
+date: 2009-07-03
 categories: [archive, broken_abbey, shu_journal]
 ---
 

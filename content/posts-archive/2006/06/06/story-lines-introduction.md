@@ -1,7 +1,7 @@
 ---
 title: "Story Lines – Introduction"
 layout: post
-date: "2006-06-06"
+date: 2006-06-06
 categories: [archive, broken_abbey]
 ---
 

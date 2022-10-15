@@ -1,7 +1,7 @@
 ---
 title: Down to Business
 layout: post
-date: "2009-10-21"
+date: 2009-10-21
 categories: [archive, broken_abbey, shu_journal]
 ---
 

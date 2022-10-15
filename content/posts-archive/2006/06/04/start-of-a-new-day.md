@@ -1,7 +1,7 @@
 ---
 title: "Start of a new day"
 layout: post
-date: "2006-06-04"
+date: 2006-06-04
 categories: [archive, broken_abbey]
 ---
 

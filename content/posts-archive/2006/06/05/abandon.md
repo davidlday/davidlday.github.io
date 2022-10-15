@@ -1,7 +1,7 @@
 ---
 title: "Abandon"
 layout: post
-date: "2006-06-05"
+date: 2006-06-05
 categories: [archive, broken_abbey, poetry]
 ---
 

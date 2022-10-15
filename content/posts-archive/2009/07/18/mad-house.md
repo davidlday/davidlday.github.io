@@ -1,7 +1,7 @@
 ---
 title: "“Mad House”"
 layout: post
-date: "2009-07-18"
+date: 2009-07-18
 categories: [archive, broken_abbey, shu_journal]
 ---
 

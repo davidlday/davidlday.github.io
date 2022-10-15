@@ -1,7 +1,7 @@
 ---
 title: "Magic Baby"
 layout: post
-date: "2006-06-12"
+date: 2006-06-12
 categories: [archive, broken_abbey]
 ---
 

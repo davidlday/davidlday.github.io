@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A White Box
-date: "2018-04-17"
+date: 2018-04-17
 tags:
   - life
 comments: true

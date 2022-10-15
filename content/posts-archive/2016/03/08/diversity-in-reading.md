@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Diversity in the Reading List
-date: "2016-03-08"
+date: 2016-03-08
 tags: [reading, year-in-review, writing]
 comments: true
 image:

@@ -1,7 +1,7 @@
 ---
 title: "station"
 layout: post
-date: "2006-06-11"
+date: 2006-06-11
 categories: [archive, broken_abbey, poetry]
 ---
 

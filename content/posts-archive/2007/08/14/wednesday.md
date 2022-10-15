@@ -1,7 +1,7 @@
 ---
 title: "Wednesday"
 layout: post
-date: "2007-08-14"
+date: 2007-08-14
 categories: [archive, broken_abbey, poetry]
 ---
 

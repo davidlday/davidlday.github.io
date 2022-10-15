@@ -1,7 +1,7 @@
 ---
 title: "Partial Meal"
 layout: post
-date: "2006-08-17"
+date: 2006-08-17
 categories: [archive, broken_abbey, poetry]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: A Bit of a Break
 layout: post
-date: "2009-12-01"
+date: 2009-12-01
 categories: [archive, broken_abbey, shu_journal]
 ---
 

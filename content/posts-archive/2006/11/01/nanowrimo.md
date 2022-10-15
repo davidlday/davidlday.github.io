@@ -1,7 +1,7 @@
 ---
 title: "NaNoWriMo"
 layout: post
-date: "2006-11-01"
+date: 2006-11-01
 categories: [archive, broken_abbey]
 ---
 

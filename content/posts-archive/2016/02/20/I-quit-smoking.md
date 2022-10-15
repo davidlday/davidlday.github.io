@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Accidental Non-Smoker
-date: "2016-02-20"
+date: 2016-02-20
 tags: [smoking, self-hacking, success]
 comments: true
 image:

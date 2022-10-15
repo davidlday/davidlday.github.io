@@ -1,7 +1,7 @@
 ---
 title: "“I Am Legend” (Ch. 12 – 16)"
 layout: post
-date: "2009-07-09"
+date: 2009-07-09
 categories: [archive, broken_abbey, shu_journal]
 ---
 

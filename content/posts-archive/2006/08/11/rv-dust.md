@@ -1,7 +1,7 @@
 ---
 title: "RV dust"
 layout: post
-date: "2006-08-11"
+date: 2006-08-11
 categories: [archive, broken_abbey, poetry]
 ---
 

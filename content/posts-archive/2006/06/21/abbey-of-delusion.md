@@ -1,7 +1,7 @@
 ---
 title: "Abbey of Delusion"
 layout: post
-date: "2006-06-21"
+date: 2006-06-21
 categories: [archive, broken_abbey, poetry]
 ---
 

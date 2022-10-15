@@ -1,7 +1,7 @@
 ---
 title: “On Writing Horror” – Part One
 layout: post
-date: "2009-10-01"
+date: 2009-10-01
 categories: [archive, broken_abbey, shu_journal]
 ---
 

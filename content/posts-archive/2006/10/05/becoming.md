@@ -1,7 +1,7 @@
 ---
 title: "Becoming"
 layout: post
-date: "2006-10-05"
+date: 2006-10-05
 categories: [archive, broken_abbey]
 ---
 

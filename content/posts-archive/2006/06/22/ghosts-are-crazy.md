@@ -1,7 +1,7 @@
 ---
 title: "Ghosts are crazy"
 layout: post
-date: "2006-06-22"
+date: 2006-06-22
 categories: [archive, broken_abbey]
 ---
 

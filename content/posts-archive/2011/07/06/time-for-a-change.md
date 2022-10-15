@@ -1,7 +1,7 @@
 ---
 title: Time for a Change
 layout: post
-date: "2011-07-06"
+date: 2011-07-06
 categories: [archive, broken_abbey, shu_journal]
 ---
 

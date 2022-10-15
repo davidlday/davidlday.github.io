@@ -1,7 +1,7 @@
 ---
 title: "“From Shadowed Places”"
 layout: post
-date: "2009-07-23"
+date: 2009-07-23
 categories: [archive, broken_abbey, shu_journal]
 ---
 

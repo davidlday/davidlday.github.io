@@ -1,7 +1,7 @@
 ---
 title: Manuscript Templates
 layout: post
-date: "2010-06-09"
+date: 2010-06-09
 categories: [archive, broken_abbey, shu_journal]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "wikshun"
 layout: post
-date: "2006-08-08"
+date: 2006-08-08
 categories: [archive, broken_abbey]
 ---
 

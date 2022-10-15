@@ -1,7 +1,7 @@
 ---
 title: Thoughts on Nate Kenyon’s “Sparrow Rock”
 layout: post
-date: "2010-08-24"
+date: 2010-08-24
 categories: [archive, broken_abbey, shu_journal]
 ---
 

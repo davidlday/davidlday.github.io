@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Back Into It
-date: "2016-01-10"
+date: 2016-01-10
 tags: [motivation, taekwondo, writing]
 comments: true
 ---

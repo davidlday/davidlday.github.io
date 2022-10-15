@@ -1,7 +1,7 @@
 ---
 title: "Tension"
 layout: post
-date: "2006-06-14"
+date: 2006-06-14
 categories: [archive, broken_abbey, poetry]
 ---
 

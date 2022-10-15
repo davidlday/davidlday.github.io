@@ -1,7 +1,7 @@
 ---
 title: "My First Paying Market!"
 layout: post
-date: "2008-07-08"
+date: 2008-07-08
 categories: [archive, broken_abbey]
 ---
 

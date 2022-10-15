@@ -1,7 +1,7 @@
 ---
 title: Scrivener for Windows… and Linux?
 layout: post
-date: "2010-11-25"
+date: 2010-11-25
 categories: [archive, broken_abbey]
 ---
 

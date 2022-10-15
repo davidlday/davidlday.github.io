@@ -1,7 +1,7 @@
 ---
 title: One Helluva Ghost Story
 layout: post
-date: "2010-04-27"
+date: 2010-04-27
 categories: [archive, broken_abbey, shu_journal]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "“The Funeral”"
 layout: post
-date: "2009-07-21"
+date: 2009-07-21
 categories: [archive, broken_abbey, shu_journal]
 ---
 

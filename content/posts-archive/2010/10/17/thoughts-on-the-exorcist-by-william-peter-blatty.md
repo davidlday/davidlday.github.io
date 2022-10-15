@@ -1,7 +1,7 @@
 ---
 title: Thoughts on The Exorcist by William Peter Blatty
 layout: post
-date: "2010-10-17"
+date: 2010-10-17
 categories: [archive, broken_abbey, shu_journal]
 ---
 

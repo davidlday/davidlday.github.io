@@ -1,7 +1,7 @@
 ---
 title: "translucent prisoner"
 layout: post
-date: "2007-05-09"
+date: 2007-05-09
 categories: [archive, broken_abbey, poetry]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "“Stephen King: The Art of Darkness” (Ch. 1-2)"
 layout: post
-date: "2009-07-29"
+date: 2009-07-29
 categories: [archive, broken_abbey, shu_journal]
 ---
 

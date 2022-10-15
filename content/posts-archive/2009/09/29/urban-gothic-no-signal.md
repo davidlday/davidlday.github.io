@@ -1,7 +1,7 @@
 ---
 title: “Urban Gothic” – No Signal
 layout: post
-date: "2009-09-29"
+date: 2009-09-29
 categories: [archive, broken_abbey, shu_journal]
 ---
 

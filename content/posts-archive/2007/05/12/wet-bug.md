@@ -1,7 +1,7 @@
 ---
 title: "wet bug"
 layout: post
-date: "2007-05-12"
+date: 2007-05-12
 categories: [archive, broken_abbey, poetry]
 ---
 

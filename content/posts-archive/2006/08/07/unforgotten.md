@@ -1,7 +1,7 @@
 ---
 title: "Unforgotten"
 layout: post
-date: "2006-07-24"
+date: 2006-07-24
 categories: [archive, broken_abbey, poetry]
 ---
 

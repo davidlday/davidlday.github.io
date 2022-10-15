@@ -1,7 +1,7 @@
 ---
 title: Measuring Quality – Words or Pages
 layout: post
-date: "2010-01-31"
+date: 2010-01-31
 categories: [archive, broken_abbey, shu_journal]
 ---
 

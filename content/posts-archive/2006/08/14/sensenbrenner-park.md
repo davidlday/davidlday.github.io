@@ -1,7 +1,7 @@
 ---
 title: "Sensenbrenner Park"
 layout: post
-date: "2006-08-14"
+date: 2006-08-14
 categories: [archive, broken_abbey]
 ---
 

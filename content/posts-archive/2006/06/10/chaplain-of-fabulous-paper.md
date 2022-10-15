@@ -1,7 +1,7 @@
 ---
 title: "Chaplain of Fabulous Paper"
 layout: post
-date: "2006-06-10"
+date: 2006-06-10
 categories: [archive, broken_abbey, poetry]
 ---
 

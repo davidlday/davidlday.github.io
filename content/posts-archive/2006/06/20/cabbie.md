@@ -1,7 +1,7 @@
 ---
 title: "Cabbie"
 layout: post
-date: "2006-06-20"
+date: 2006-06-20
 categories: [archive, broken_abbey]
 ---
 

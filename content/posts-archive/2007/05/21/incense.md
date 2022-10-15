@@ -1,7 +1,7 @@
 ---
 title: "incense"
 layout: post
-date: "2007-05-21"
+date: 2007-05-21
 categories: [archive, broken_abbey, poetry]
 ---
 
