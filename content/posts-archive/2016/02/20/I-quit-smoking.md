@@ -5,8 +5,7 @@ author: David
 date: 2016-02-20
 tags: [smoking, self-hacking, success]
 comments: true
-image:
-  feature: feature/quit_smoking.jpg
+image: /images/feature/quit_smoking.jpg
 ---
 
 I quit smoking this year (yes, even the electronic ones), and like so many of

@@ -5,8 +5,7 @@ author: David
 date: 2016-03-08
 tags: [reading, year-in-review, writing]
 comments: true
-image:
-  feature: feature/diversity_in_reading.png
+image: /images/feature/diversity_in_reading.png
 ---
 
 Happy [International Women's Day](http://www.internationalwomensday.com/)!
