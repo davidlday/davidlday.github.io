@@ -1,7 +1,12 @@
 baseURL: "http://davidlday.com/"
 languageCode: "en-us"
 title: "David L. Day"
-theme: hugo-profile
+
+module:
+  imports:
+    - path: github.com/gurusabarish/hugo-profile
+
+# theme: hugo-profile
 
 Paginate: 3
 disqusShortname: davidlday
