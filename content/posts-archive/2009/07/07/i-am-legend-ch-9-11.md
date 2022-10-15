@@ -1,6 +1,8 @@
 ---
 title: "“I Am Legend” (Ch. 9 – 11)"
 author: David
+toc: false
+socialShare: false
 layout: post
 date: 2009-07-07
 categories: [archive, broken_abbey, shu_journal]

@@ -1,6 +1,8 @@
 ---
 title: "Partial Meal"
 author: David
+toc: false
+socialShare: false
 layout: post
 date: 2006-08-17
 categories: [archive, broken_abbey, poetry]

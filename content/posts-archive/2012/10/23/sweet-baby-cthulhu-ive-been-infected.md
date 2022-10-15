@@ -2,6 +2,8 @@
 layout: post
 title: Sweet Baby Cthulhu! I've Been Infected!
 author: David
+toc: false
+socialShare: false
 date: "2012-10-23T22:46:32-04:00"
 tags:
   - writing

@@ -1,6 +1,8 @@
 ---
 title: "wikshun"
 author: David
+toc: false
+socialShare: false
 layout: post
 date: 2006-08-08
 categories: [archive, broken_abbey]

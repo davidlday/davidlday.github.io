@@ -1,6 +1,8 @@
 ---
 title: "“Dance of the Dead”"
 author: David
+toc: false
+socialShare: false
 layout: post
 date: 2009-07-03
 categories: [archive, broken_abbey, shu_journal]

@@ -1,6 +1,8 @@
 ---
 title: '“I Am Legend” (Ch. 17 – 21)'
 author: David
+toc: false
+socialShare: false
 layout: post
 date: 2009-07-11
 date: "2009-07-11T00:02:00-05:00"
@@ -68,5 +70,7 @@ for survival was a key part in the transition of the human race, and that his
 part was at an end. I can't imagine a more appropriate way to end this story,
 nor a more appropriate title:
 author: David
+toc: false
+socialShare: false
 
 > I am legend.

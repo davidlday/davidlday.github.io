@@ -1,6 +1,8 @@
 ---
 title: "“Stephen King: The Art of Darkness” (Ch. 1-2)"
 author: David
+toc: false
+socialShare: false
 layout: post
 date: 2009-07-29
 categories: [archive, broken_abbey, shu_journal]

@@ -1,6 +1,8 @@
 ---
 title: "End of NaNoWriMo"
 author: David
+toc: false
+socialShare: false
 layout: post
 date: 2006-12-02
 categories: [archive, broken_abbey]

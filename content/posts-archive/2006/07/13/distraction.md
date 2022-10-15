@@ -1,6 +1,8 @@
 ---
 title: "Distraction"
 author: David
+toc: false
+socialShare: false
 layout: post
 date: 2006-07-13
 categories: [archive, broken_abbey]

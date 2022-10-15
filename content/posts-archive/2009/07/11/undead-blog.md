@@ -1,6 +1,8 @@
 ---
 title: "Undead Blog"
 author: David
+toc: false
+socialShare: false
 layout: post
 date: "2009-07-11T00:04:00-05:00"
 categories: [archive, broken_abbey, shu_journal]

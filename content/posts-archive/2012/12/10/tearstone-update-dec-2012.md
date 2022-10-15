@@ -2,6 +2,8 @@
 layout: post
 title: "Tearstone Update - Dec 2012 "
 author: David
+toc: false
+socialShare: false
 date: "2012-12-10T05:13:31-05:00"
 tags: []
 tumblr_url: http://tumblr.davidlday.com/post/37630090757/tearstone-update-dec-2012

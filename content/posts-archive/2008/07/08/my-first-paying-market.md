@@ -1,6 +1,8 @@
 ---
 title: "My First Paying Market!"
 author: David
+toc: false
+socialShare: false
 layout: post
 date: 2008-07-08
 categories: [archive, broken_abbey]

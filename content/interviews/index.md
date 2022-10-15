@@ -4,6 +4,8 @@ title: Interviews
 author: David
 date: 2014-12-07
 image: /images/feature/eyes.jpg
+toc: false
+socialShare: false
 comments: false
 ---
 

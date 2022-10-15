@@ -6,6 +6,7 @@ date: 2016-03-26
 tags: [life]
 comments: true
 toc: false
+socialShare: false
 image: /images/feature/squinty_zoe.jpg
 ---
 

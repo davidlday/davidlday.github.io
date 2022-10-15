@@ -2,6 +2,8 @@
 layout: post
 title: "Tumblr with iA Writer "
 author: David
+toc: false
+socialShare: false
 date: "2012-12-07T17:27:00-05:00"
 tags: []
 tumblr_url: http://tumblr.davidlday.com/post/37428804796/tumblr-with-ia-writer

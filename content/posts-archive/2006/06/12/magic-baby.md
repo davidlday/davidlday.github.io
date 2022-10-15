@@ -1,6 +1,8 @@
 ---
 title: "Magic Baby"
 author: David
+toc: false
+socialShare: false
 layout: post
 date: 2006-06-12
 categories: [archive, broken_abbey]

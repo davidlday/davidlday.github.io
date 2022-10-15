@@ -2,6 +2,8 @@
 layout: post
 title: "The Duotrope Question "
 author: David
+toc: false
+socialShare: false
 date: "2012-12-14T05:57:00-05:00"
 tags: []
 tumblr_url: http://tumblr.davidlday.com/post/37901101392/the-duotrope-question

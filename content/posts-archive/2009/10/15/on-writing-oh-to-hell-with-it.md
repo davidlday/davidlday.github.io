@@ -1,6 +1,8 @@
 ---
 title: “On Writing… oh, to hell with it.
 author: David
+toc: false
+socialShare: false
 layout: post
 date: "2009-10-15T02:00:00-05:00"
 categories: [archive, broken_abbey, shu_journal]

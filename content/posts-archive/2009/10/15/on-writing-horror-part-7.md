@@ -1,6 +1,8 @@
 ---
 title: “On Writing Horror” – Part Seven
 author: David
+toc: false
+socialShare: false
 layout: post
 date: "2009-10-15T00:01:00-05:00"
 categories: [archive, broken_abbey, shu_journal]

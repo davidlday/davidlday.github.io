@@ -2,6 +2,8 @@
 layout: post
 title: Diversity in the Reading List
 author: David
+toc: false
+socialShare: false
 date: 2016-03-08
 tags: [reading, year-in-review, writing]
 comments: true

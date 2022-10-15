@@ -4,6 +4,8 @@ title: Reviews
 author: David
 date: 2014-12-07
 image: /images/feature/life_is_good.jpg
+toc: false
+socialShare: false
 comments: false
 ---
 

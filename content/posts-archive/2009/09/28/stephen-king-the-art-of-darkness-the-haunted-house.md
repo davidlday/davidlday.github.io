@@ -1,6 +1,8 @@
 ---
 title: “Stephen King&#58; The Art of Darkness” – The Haunted House
 author: David
+toc: false
+socialShare: false
 layout: post
 categories: [archive, broken_abbey, shu_journal]
 ---

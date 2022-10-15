@@ -1,6 +1,8 @@
 ---
 title: “On Writing Horror” – Part Four
 author: David
+toc: false
+socialShare: false
 layout: post
 date: 2009-10-07
 categories: [archive, broken_abbey, shu_journal]

@@ -2,6 +2,8 @@
 layout: post
 title: Short Story Structure
 author: David
+toc: false
+socialShare: false
 date: "2013-01-07T06:30:07-05:00"
 tags: []
 tumblr_url: http://tumblr.davidlday.com/post/39922958121/short-story-structure
