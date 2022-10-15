@@ -1,11 +1,11 @@
 # MacOS
 .DS_Store
 
-# https://github.com/github/gitignore/blob/master/Jekyll.gitignore
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
 
-# rbenv
-.ruby-version
+# Temporary lock file while building
+/.hugo_build.lock
