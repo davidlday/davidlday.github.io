@@ -2,7 +2,7 @@
 layout: page
 title: David’s Writer Bio
 image: /images/feature/all_we_have_is_now.jpg
-author: D-Day
+author: David
 date: 2016-10-06
 toc: true
 socialShare: false

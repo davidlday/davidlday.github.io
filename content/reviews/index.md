@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reviews
-author: D-Day
+author: David
 date: 2014-12-07
 image: /images/feature/life_is_good.jpg
 comments: false

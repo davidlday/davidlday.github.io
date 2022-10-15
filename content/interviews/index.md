@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Interviews
-author: D-Day
+author: David
 date: 2014-12-07
 image: /images/feature/eyes.jpg
 comments: false

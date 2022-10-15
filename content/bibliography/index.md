@@ -2,7 +2,7 @@
 layout: page
 title: Bibliography
 image: /images/feature/read_the_book.jpg
-author: D-Day
+author: David
 date: 2022-10-13
 toc: false
 socialShare: false
