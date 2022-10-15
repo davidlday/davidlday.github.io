@@ -1,5 +1,6 @@
 ---
 title: “Stephen King&#58; The Art of Darkness” (Ch. 3 – 4)
+author: David
 layout: post
 date: 2009-08-05
 categories: [archive, broken_abbey, shu_journal]

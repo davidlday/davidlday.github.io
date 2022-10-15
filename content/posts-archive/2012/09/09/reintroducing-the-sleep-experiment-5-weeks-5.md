@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Reintroducing the Sleep Experiment: 5 Weeks @ 5 Hours a Night"
+author: David
 date: "2012-09-09T08:42:00-04:00"
 tags:
   - sleep

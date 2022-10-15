@@ -1,5 +1,6 @@
 ---
 title: "“I Am Legend” (Ch. 1 – 3)"
+author: David
 layout: post
 date: 2009-07-04
 categories: [archive, broken_abbey, shu_journal]

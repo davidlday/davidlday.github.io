@@ -1,5 +1,6 @@
 ---
 title: “Stephen King&#58; The Art of Darkness” - Night Journey
+author: David
 layout: post
 date: "2009-09-24T00:01:00-05:00"
 categories: [archive, broken_abbey, shu_journal]

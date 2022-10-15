@@ -1,6 +1,7 @@
 ---
 layout: post
 title: No More Sleepy Posts
+author: David
 date: "2012-10-11T06:05:55-04:00"
 tags:
   - polyphasic

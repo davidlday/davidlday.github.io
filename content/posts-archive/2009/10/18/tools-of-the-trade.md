@@ -1,5 +1,6 @@
 ---
 title: Tools of the Trade
+author: David
 layout: post
 date: 2009-10-18
 categories: [archive, broken_abbey, shu_journal]

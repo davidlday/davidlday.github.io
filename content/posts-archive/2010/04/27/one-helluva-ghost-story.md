@@ -1,5 +1,6 @@
 ---
 title: One Helluva Ghost Story
+author: David
 layout: post
 date: 2010-04-27
 categories: [archive, broken_abbey, shu_journal]

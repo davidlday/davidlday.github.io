@@ -1,5 +1,6 @@
 ---
 title: "Ghosts are crazy"
+author: David
 layout: post
 date: 2006-06-22
 categories: [archive, broken_abbey]

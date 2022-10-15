@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Saying Goodbye to Our Dog
+author: David
 date: 2016-03-26
 tags: [life]
 comments: true

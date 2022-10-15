@@ -1,5 +1,6 @@
 ---
 title: Another Round of How-To
+author: David
 layout: post
 date: 2010-03-01
 categories: [archive, broken_abbey, shu_journal]

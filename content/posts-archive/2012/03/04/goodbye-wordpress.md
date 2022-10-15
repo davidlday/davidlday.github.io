@@ -1,5 +1,6 @@
 ---
 title: Goodbye WordPress
+author: David
 layout: post
 date: 2012-03-04
 categories: [archive, broken_abbey]

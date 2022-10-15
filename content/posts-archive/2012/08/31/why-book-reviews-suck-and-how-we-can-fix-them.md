@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why Book Reviews Suck And How We Can Fix Them
+author: David
 date: "2012-08-31T06:30:18-04:00"
 tags:
   - NLP

@@ -1,5 +1,6 @@
 ---
 title: "Abbey of Delusion"
+author: David
 layout: post
 date: 2006-06-21
 categories: [archive, broken_abbey, poetry]

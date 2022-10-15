@@ -1,5 +1,6 @@
 ---
 title: “On Writing Horror” – Part Five
+author: David
 layout: post
 date: 2009-10-09
 categories: [archive, broken_abbey, shu_journal]

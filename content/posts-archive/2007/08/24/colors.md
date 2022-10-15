@@ -1,5 +1,6 @@
 ---
 title: "Colors"
+author: David
 layout: post
 date: 2007-08-14
 categories: [archive, broken_abbey, poetry]

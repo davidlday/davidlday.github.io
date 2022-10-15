@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Look, Ma, No Word Processor!
+author: David
 date: "2012-10-20T10:15:05-04:00"
 tags:
   - writing

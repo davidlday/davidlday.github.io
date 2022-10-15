@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Little Bit of Planning...
+author: David
 date: "2012-10-08T04:59:00-04:00"
 tags:
   - writing

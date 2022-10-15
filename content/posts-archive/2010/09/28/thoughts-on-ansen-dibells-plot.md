@@ -1,5 +1,6 @@
 ---
 title: Thoughts on Ansen Dibell’s “Plot”
+author: David
 layout: post
 date: 2010-09-28
 categories: [archive, broken_abbey, shu_journal]

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sleeping Like an Idiot: Week 7 - Charts!"
+author: David
 date: "2012-09-24T03:33:40-04:00"
 tags:
   - polyphasic

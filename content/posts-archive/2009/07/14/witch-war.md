@@ -1,5 +1,6 @@
 ---
 title: "“Witch War”"
+author: David
 layout: post
 date: "2009-07-14T00:02:00-05:00"
 categories: [archive, broken_abbey, shu_journal]

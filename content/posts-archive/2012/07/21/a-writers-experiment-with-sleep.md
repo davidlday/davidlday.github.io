@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Writer's Experiment with Sleep
+author: David
 date: "2012-07-21T16:56:04-04:00"
 tags:
   - writing

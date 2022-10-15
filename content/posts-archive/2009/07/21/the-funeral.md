@@ -1,5 +1,6 @@
 ---
 title: "“The Funeral”"
+author: David
 layout: post
 date: 2009-07-21
 categories: [archive, broken_abbey, shu_journal]

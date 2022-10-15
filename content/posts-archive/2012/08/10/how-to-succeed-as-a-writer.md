@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Succeed as a Writer
+author: David
 date: "2012-08-10T06:45:51-04:00"
 tags:
   - advice

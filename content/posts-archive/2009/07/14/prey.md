@@ -1,5 +1,6 @@
 ---
 title: "“Prey”"
+author: David
 layout: post
 date: "2009-07-14T00:01:00-05:00"
 categories: [archive, broken_abbey, shu_journal]

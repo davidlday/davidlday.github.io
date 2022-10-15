@@ -1,5 +1,6 @@
 ---
 title: "“From Shadowed Places”"
+author: David
 layout: post
 date: 2009-07-23
 categories: [archive, broken_abbey, shu_journal]

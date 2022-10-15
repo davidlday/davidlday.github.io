@@ -1,5 +1,6 @@
 ---
 title: "“I Am Legend” (Ch. 4 – 8)"
+author: David
 layout: post
 date: 2009-07-06
 categories: [archive, broken_abbey, shu_journal]

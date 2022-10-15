@@ -1,5 +1,6 @@
 ---
 title: "Chaplain of Fabulous Paper"
+author: David
 layout: post
 date: 2006-06-10
 categories: [archive, broken_abbey, poetry]

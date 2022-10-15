@@ -1,5 +1,6 @@
 ---
 title: "1000 Words"
+author: David
 layout: post
 date: 2006-06-07
 categories: [archive, broken_abbey]

@@ -1,5 +1,6 @@
 ---
 title: "“The Near Departed”"
+author: David
 layout: post
 date: "2009-07-11T00:03:00-05:00"
 categories: [archive, broken_abbey, shu_journal]

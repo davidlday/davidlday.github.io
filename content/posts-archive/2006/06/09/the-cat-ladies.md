@@ -1,5 +1,6 @@
 ---
 title: "The Cat Ladies"
+author: David
 layout: post
 date: 2006-06-09
 categories: [archive, broken_abbey]

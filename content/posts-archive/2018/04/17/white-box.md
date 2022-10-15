@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A White Box
+author: David
 date: 2018-04-17
 tags:
   - life

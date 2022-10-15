@@ -1,5 +1,6 @@
 ---
 title: "NaNoWriMo"
+author: David
 layout: post
 date: 2006-11-01
 categories: [archive, broken_abbey]

@@ -1,5 +1,6 @@
 ---
 title: "Chernobyl and Prypiat"
+author: David
 layout: post
 date: 2007-04-05
 categories: [archive, broken_abbey]

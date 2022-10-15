@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sleep Experiment: Week 6"
+author: David
 date: "2012-09-18T07:28:56-04:00"
 tags:
   - polyphasic

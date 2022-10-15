@@ -1,5 +1,6 @@
 ---
 title: A Bit of a Break
+author: David
 layout: post
 date: 2009-12-01
 categories: [archive, broken_abbey, shu_journal]

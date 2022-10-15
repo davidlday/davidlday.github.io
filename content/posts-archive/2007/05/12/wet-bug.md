@@ -1,5 +1,6 @@
 ---
 title: "wet bug"
+author: David
 layout: post
 date: 2007-05-12
 categories: [archive, broken_abbey, poetry]

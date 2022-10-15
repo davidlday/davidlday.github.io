@@ -1,5 +1,6 @@
 ---
 title: "The Sin of Self-Publishing"
+author: David
 layout: post
 date: 2006-10-06
 categories: [archive, broken_abbey]

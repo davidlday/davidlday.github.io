@@ -1,5 +1,6 @@
 ---
 title: "Stalks of Faith"
+author: David
 layout: post
 date: 2006-06-08
 categories: [archive, broken_abbey]

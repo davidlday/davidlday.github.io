@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Charity Anthology Released
+author: David
 date: "2012-08-08T05:39:00-04:00"
 tags:
   - anthology

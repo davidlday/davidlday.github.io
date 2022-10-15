@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Accidental Non-Smoker
+author: David
 date: 2016-02-20
 tags: [smoking, self-hacking, success]
 comments: true

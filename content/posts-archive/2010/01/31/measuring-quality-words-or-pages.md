@@ -1,5 +1,6 @@
 ---
 title: Measuring Quality – Words or Pages
+author: David
 layout: post
 date: 2010-01-31
 categories: [archive, broken_abbey, shu_journal]

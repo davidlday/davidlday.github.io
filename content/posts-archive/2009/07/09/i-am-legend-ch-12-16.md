@@ -1,5 +1,6 @@
 ---
 title: "“I Am Legend” (Ch. 12 – 16)"
+author: David
 layout: post
 date: 2009-07-09
 categories: [archive, broken_abbey, shu_journal]

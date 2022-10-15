@@ -1,5 +1,6 @@
 ---
 title: "Preparing for NaNoWriMo"
+author: David
 layout: post
 date: 2006-10-17
 categories: [archive, broken_abbey]

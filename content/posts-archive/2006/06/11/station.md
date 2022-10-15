@@ -1,5 +1,6 @@
 ---
 title: "station"
+author: David
 layout: post
 date: 2006-06-11
 categories: [archive, broken_abbey, poetry]

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Reading List for 2012 "
+author: David
 date: "2013-01-04T09:12:00-05:00"
 tags: []
 tumblr_url: http://tumblr.davidlday.com/post/39655590532/reading-list-for-2012

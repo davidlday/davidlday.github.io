@@ -1,5 +1,6 @@
 ---
 title: “Stephen King&#58; The Art of Darkness” – Change of Approach
+author: David
 layout: post
 date: 2009-09-16
 categories: [archive, broken_abbey, shu_journal]

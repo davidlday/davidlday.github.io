@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Getting Back Into It
+author: David
 date: 2016-01-10
 tags: [motivation, taekwondo, writing]
 comments: true

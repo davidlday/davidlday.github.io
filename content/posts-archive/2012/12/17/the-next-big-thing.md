@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Next Big Thing "
+author: David
 date: "2012-12-17T05:58:00-05:00"
 tags: []
 tumblr_url: http://tumblr.davidlday.com/post/38139750681/the-next-big-thing
