@@ -218,6 +218,10 @@ params:
         company: "Invesco"
         companyUrl: "https://careers.invesco.com/"
         date: "July 2022 - present"
+        featuredLink:
+          enable: true
+          name: My LinkedIn Profile
+          url: "https://linkedin.com/in/dday376"
         content:
           I am a Senior Principal of Data Systems at
           [Invesco](https://invesco.com). I'm part of the Enterprise Data
