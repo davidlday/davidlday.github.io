@@ -164,6 +164,10 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/davidlday/
+        - icon: fab fa-mastodon
+          url: https://me.dm/@numinouscthulhu
+        - icon: fab fa-medium
+          url: https://medium.com/@numinouscthulhu
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/dday376/
 
@@ -416,9 +420,10 @@ params:
 
   footer:
     recentPosts: false
-    socialNetworks:
-      github: https://github.com/davidlday
-      linkedin: https://linkedin.com/in/dday376
-      # twitter: https://twitter.com
-      # instagram: https://instagram.com
-      # facebook: https://facebook.com
+    # socialNetworks:
+    #   github: https://github.com/davidlday
+    #   mastadon: https://me.dm/@numinouscthulhu
+    #   linkedin: https://linkedin.com/in/dday376
+    #   twitter: https://twitter.com
+    #   instagram: https://instagram.com
+    #   facebook: https://facebook.com
