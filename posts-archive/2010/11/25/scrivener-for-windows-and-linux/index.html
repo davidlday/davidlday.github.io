@@ -19,10 +19,10 @@ it out.
 <a href=http://lifehacker.com/comment/31418541/>Use Wine if you&rsquo;re Linux only</a>. Also,
 see the
 <a href="http://www.literatureandlatte.com/forum/viewforum.php?f=30">Linux user thread</a>
-on L&L&rsquo;s forum. Sign up; help out. Finally, be aware that I do not give any
-files directly in this post. I only link to files on L&L&rsquo;s forums.</p><p>This&rsquo;ll get you started, then once you&rsquo;re up and running head back to L&L&rsquo;s
+on L&amp;L&rsquo;s forum. Sign up; help out. Finally, be aware that I do not give any
+files directly in this post. I only link to files on L&amp;L&rsquo;s forums.</p><p>This&rsquo;ll get you started, then once you&rsquo;re up and running head back to L&amp;L&rsquo;s
 message board for updates.</p><h2 id=installation>Installation</h2><p>I&rsquo;m going to preface everything here with a quote from
-<a href="http://www.literatureandlatte.com/blog/?p=133">L&L&rsquo;s Blog, 13 Sept. 2010</a>:</p><blockquote><p>​10. Syncing for iPad, iPhone and Working Externally</p><p>There&rsquo;s been a minor furor over my announcement that we currently don’t have
+<a href="http://www.literatureandlatte.com/blog/?p=133">L&amp;L&rsquo;s Blog, 13 Sept. 2010</a>:</p><blockquote><p>​10. Syncing for iPad, iPhone and Working Externally</p><p>There&rsquo;s been a minor furor over my announcement that we currently don’t have
 any immediate plans for an iPad version, although an iPad version isn’t ruled
 out altogether in the long-term (other platforms that Scrivener won’t be
 coming to any time soon include Google Android, Linux and Commodore 64). But
@@ -32,14 +32,14 @@ iPhone.(Emphasis mine).</p></blockquote><p>This is all very unofficial. I use Ub
 my desktop, but this information should apply to other distros as well.</p><h3 id=manual-i386--amd64>Manual (i386 & AMD64)</h3><p>See the Announcements on the
 <a href="http://www.literatureandlatte.com/forum/viewforum.php?f=32">Windows Bug Hunt</a>
 forum for the latest Beta release. As of this writing, it&rsquo;s
-<a href="http://www.literatureandlatte.com/forum/viewtopic.php?f=32&t=9917">1.3</a>.
+<a href="http://www.literatureandlatte.com/forum/viewtopic.php?f=32&amp;t=9917">1.3</a>.
 Download the .zip file for Linux. I assume your download goes to ~/Download.</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>sudo unzip -d /tmp ~/Download/LinuxScrivenerBeta3.zip sudo
 </span></span><span style=display:flex><span>mv /tmp/LinuxScrivenerBeta3/LiteratureAndLatte /usr/local sudo ldd
 </span></span><span style=display:flex><span>/usr/local/LiteratureAndLatte/bin/Scrivener sudo chmod <span style=color:#ae81ff>755</span>
 </span></span><span style=display:flex><span>/usr/local/LiteratureAndLatte/bin/Scrivener sudo rm -r /tmp/LinuxScrivenerBeta3
-</span></span></code></pre></div><h3 id=packages>Packages</h3><p><a href="http://www.literatureandlatte.com/forum/memberlist.php?mode=viewprofile&u=9858">Randywallace</a>
+</span></span></code></pre></div><h3 id=packages>Packages</h3><p><a href="http://www.literatureandlatte.com/forum/memberlist.php?mode=viewprofile&amp;u=9858">Randywallace</a>
 has provided packages on the forum. The latest are available
-<a href="http://www.literatureandlatte.com/forum/viewtopic.php?f=30&t=9154&p=78141#p78141">here</a>.
+<a href="http://www.literatureandlatte.com/forum/viewtopic.php?f=30&amp;t=9154&amp;p=78141#p78141">here</a>.
 He provides deb, rpm, and tgz.</p><h3 id=spell-checking>Spell Checking</h3><p>Spell checking worked for some but not others.</p><h3 id=i386>i386</h3><p>Make sure you have the libaspell and libaspell-devpackages installed. That&rsquo;s it.</p><h3 id=amd64>AMD64</h3><p>Not so easy. It appearsthat Scrivener can&rsquo;t use the 64-bit aspell libraries.
 But, it also seems that
 <a href=https://help.ubuntu.com/community/OperaBrowser#32%20bit%20plugins>Opera had a similar issue on Ubuntu</a>.
@@ -62,7 +62,7 @@ with:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-col
 </span></span><span style=display:flex><span>2010-11-24 16:18 /usr/lib32/libaspell.so.15 -&gt; libaspell.so.15.1.4 -rw-r--r-- <span style=color:#ae81ff>1</span>
 </span></span><span style=display:flex><span>root root <span style=color:#ae81ff>603852</span> 2010-11-24 16:18 /usr/lib32/libaspell.so.15.1.4
 </span></span></code></pre></div><p>My original forum post is
-<a href="http://www.literatureandlatte.com/forum/viewtopic.php?f=30&t=9154&start=150#p79509">here</a>.</p><h1 id=install-the-tutorial>Install the Tutorial</h1><p>The Linux zip file is provided without the Tutorial project. Here’s how you can
+<a href="http://www.literatureandlatte.com/forum/viewtopic.php?f=30&amp;t=9154&amp;start=150#p79509">here</a>.</p><h1 id=install-the-tutorial>Install the Tutorial</h1><p>The Linux zip file is provided without the Tutorial project. Here’s how you can
 add it.This requires an install of the Windows Beta, either in Wine or on
 Windows box:</p><ol><li>In the Windows install, go to:C:\Program Files\Scrivener</li><li>In that directory, you’ll find a folder called:Tutorial.scriv</li><li>Copy that entire folder to the bin directory of your Linux Scrivener install.
 This might be /usr/local/LiteratureAndLatte/bin or /opt/scrivener_beta/bin
