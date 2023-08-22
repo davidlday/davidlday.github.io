@@ -260,28 +260,20 @@ params:
           name: "Seton Hill University"
           url: "https://www.setonhill.edu/"
         date: "2009 - 2011"
-        # GPA: "3.9 out of 5.0"
-        # content:
         featuredLink:
           enable: true
           name: "My Thesis Novel, Tearstone"
-          url: "https://darkrecessespress.com/product/tearstone-2/"
+          url: "https://www.mantapress.com/product-page/tearstone"
       - title: "Master of Business Administration"
         school:
           name: "Ohio University"
           url: "https://www.ohio.edu/"
         date: "1994 - 1995"
-        # GPA: "3.8 out of 5.0"
-        # content:
       - title: "Bachelor of Arts, English"
         school:
           name: "Ohio University"
           url: "https://www.ohio.edu/"
         date: "1990 - 1993"
-        # GPA: "4.2 out of 5.0"
-        # featuredLink:
-        #   enable: true
-        #   url: "https://example.com"
 
   # Achievements
   achievements:
@@ -344,9 +336,6 @@ params:
         content: |-
           Currently Unavailable. A collection of poetry from my younger years. Some I'm proud of, others, not so much. I'm looking into options for re-releasing in a sustainable way.
         image: /images/covers/miscalculations.png
-        # featured:
-        #   name: Dark Recesses Press
-        #   link: https://darkrecessespress.com/product/tearstone-2/
 
   # projects
   projects:
@@ -357,16 +346,13 @@ params:
         content: |-
           Currently Unavailable. A collection of poetry from my younger years. Some I'm proud of, others, not so much. I'm looking into options for re-releasing in a sustainable way.
         image: /images/covers/miscalculations.jpg
-        # featured:
-        #   name: Dark Recesses Press
-        #   link: https://darkrecessespress.com/product/tearstone-2/
       - title: Tearstone
         content: |-
           "Tearstone is a pitch black work of horror that has it all: high action terror, bizarro nightmares, and soul-scarring occultism. Don't overlook this new occult thriller, and make sure you keep watching David Day. He's part of the new dawn of the horror genre, and its already rising." - Michael A. Arnzen, Bram Stoker Award-winning Author of Play Dead
-        image: /images/covers/tearstone.jpg
+        image: /images/covers/tearstone-10.png
         featured:
-          name: Dark Recesses Press
-          link: https://darkrecessespress.com/product/tearstone-2/
+          name: Manta Press
+          link: https://www.mantapress.com/product-page/tearstone
         # badges:
         #   - "Hugo"
         #   - "Bootstrap"
