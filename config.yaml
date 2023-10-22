@@ -8,6 +8,16 @@ module:
 
 # theme: hugo-profile
 
+outputs:
+  home:
+    - html
+    - rss
+  page:
+    - html
+    - rss
+  rss:
+    - rss
+
 Paginate: 3
 disqusShortname: davidlday
 # googleAnalytics: G-DWJJVE27WD
@@ -54,6 +64,12 @@ Menus:
       title: Schools I attended.
       url: /#education
       weight: 6
+
+    - identifier: notes
+      name: Notes
+      title: Not really a blog, just... Notes.
+      url: /notes
+      weight: 7
 
     # Dropdown menu
     - identifier: main
@@ -405,11 +421,9 @@ params:
     btnName: Mail me
 
   footer:
-    recentPosts: false
-    # socialNetworks:
-    #   github: https://github.com/davidlday
-    #   mastadon: https://me.dm/@numinouscthulhu
-    #   linkedin: https://linkedin.com/in/dday376
-    #   twitter: https://twitter.com
-    #   instagram: https://instagram.com
-    #   facebook: https://facebook.com
+    recentPosts:
+      path: "notes"
+      count: 3
+      title: Recent Notes
+      enable: true
+      disableFeaturedImage: false
