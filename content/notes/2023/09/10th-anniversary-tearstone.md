@@ -1,7 +1,9 @@
 ---
 date: "2023-09-22"
 categories:
-  - books
+  - Horror Fiction
+  - Therapy
+  - Books
 author: "David L. Day"
 title: 10th Anniversary Edition of Tearstone
 image: /images/covers/tearstone-10.png
