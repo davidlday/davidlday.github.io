@@ -221,19 +221,6 @@ params:
     enable: true
     title: "Experience"
     items:
-      - job: "Partner"
-        company: "Cracked Skull Press"
-        companyUrl: "https://crackedskullpress.com"
-        date: "October 2021 - present"
-        info:
-          enable: false
-        featuredLink:
-          enable: true
-          name: That Which Cannot Be Undone
-          url: "https://crackedskullpress.com/books/twcbu/"
-        content: |
-          I'm currently a partner in Cracked Skull Press, an independent publishing company in Columbus, OH, founded in 2021. Our initial project, That Which Cannot Be Undone, is an anthology of horror stories by Ohio authors, all set in Ohio. This is not how I earn income, though. See the Invesco tab for details on my day job.
-
       - job: "Senior Principal"
         company: "Invesco"
         companyUrl: "https://careers.invesco.com/"
@@ -242,10 +229,21 @@ params:
           enable: true
           name: My LinkedIn Profile
           url: "https://linkedin.com/in/dday376"
-        content:
-          I am a Senior Principal of Data Systems at
-          [Invesco](https://invesco.com). I'm part of the Enterprise Data
-          Office, and help develop solutions around managing data products.
+        content: |
+          I am a Senior Principal of Architecture at [Invesco](https://invesco.com). I'm leading our new Software Engineering Practices team (currently a team of one) which strives to help uplift developer skills, experience, and happiness across the firm. I'm also a member of the Architecture Review Board, which provides oversight and guidance to the firm's technology initiatives.
+
+      - job: "Partner"
+        company: "Cracked Skull Press"
+        companyUrl: "https://crackedskullpress.com"
+        date: "October 2021 - December 2023"
+        info:
+          enable: false
+        featuredLink:
+          enable: true
+          name: That Which Cannot Be Undone
+          url: "https://crackedskullpress.com/books/twcbu/"
+        content: |
+          I was a partner in Cracked Skull Press, an independent publishing company in Columbus, OH, founded in 2021. Our initial project, That Which Cannot Be Undone, is an anthology of horror stories by Ohio authors, all set in Ohio. We closed our doors in 2023 because operating a small press is challenging in the age of monopolies. See [Pluralistic](https://pluralistic.net/) for more details on how monopolies are destroying everything.
 
       - job: "Architect & Software Engineer"
         company: "Nationwide Insurance"
